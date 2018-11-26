@@ -1,0 +1,96 @@
+<?php
+
+class Pedido extends Eloquent
+{
+    protected $table = 'pedido';
+    private $total = 0;
+    private $X="";
+
+    /* function explode_by_me($divideBy, $str) {
+        for($i=0, $strCount = strlen($str); $i<$strCount; $i++) {
+            // echo $str[$i].'</Br>';
+            echo 'passo '.$i.' str['.$i.']='.$str[$i].'</Br>';
+            if($str[$i] == $divideBy) {
+                $elements[] = $element;
+                $element = "";
+            }
+            else {
+                $element .= $str[$i];
+            }
+        }*/
+
+    // add last item
+
+    private function PegaQtd() {
+        $tam=strlen($this->X);    	
+    	$ini=strrpos("+",$this->X);
+	$qtd=substr($this->X, 0, $ini);
+	$this->X=substr($this->X, $ini);
+        echo "tam=".$tam."</Br>";
+	echo "ini=".$ini."</Br>";
+	echo "qtd=".$qtd."</Br>";
+	echo "X=".$this->X."</Br>";
+	return $qtd;
+    }
+
+    public function CriaPedido($X) {
+    
+	echo "a</Br>";
+    	echo "len(x)=".strlen($X)."</Br>";
+    	echo "b</Br>";
+
+        echo "X=".$X."</Br>";
+
+        $this->X=$X;
+        $QtdItens = $this->PegaQtd();
+
+        echo "QtdItens = ".$QtdItens; die;
+
+        $i = 0;
+        $sQTD = '';
+        $sVLR = '';
+        $sIDPROD = '';
+        $QTD = '';
+        $VLR = '';
+        $IDPROD = '';
+
+        /* $IP = $_SERVER['REMOTE_ADDR'];
+        DB::insert('insert into pedido (IP) values (?)', [$IP]);
+
+        $ConsID = DB::table('pedido')
+        ->select('idPed')
+            ->where('IP', '=', $IP)
+            ->orderBy('idPed', 'desc')
+            ->take(1)
+            ->first();
+            $idPed = $ConsID->idPed;
+
+        for ($i=1;$i<($QtdItens+1);$i++) {
+            $sQTD = 'QTD'.$i;
+            $sVLR = 'VLR'.$i;
+            $sIDPROD = 'IDPROD'.$i;
+
+            $QTD = $_GET[$sQTD];
+            $VLR = $_GET[$sVLR];
+            $IDPROD = $_GET[$sIDPROD];
+
+            echo 'QTD = '.$QTD.'</Br>';
+            echo 'VLR = '.$VLR.'</Br>';
+            echo 'IDPROD = '.$IDPROD.'</Br>';
+
+            DB::insert('insert into pedidoItens (idped, idprod, quant, Valor) values (?, ?, ?, ?)', [$idPed, $IDPROD, $QTD, $VLR]);
+
+            $vlrIt = $QTD * $VLR;
+            $this->total = $this->total + $vlrIt;
+        }
+        DB::update('update pedido set Valor = '.$this->total.', status = 0 where idPed = '.$idPed );
+        Session::put('IDPED', $idPed);
+        echo 'total = '.$this->total.'</p>';
+        */
+    }
+
+    public function getTotal() {
+        return $this->total;
+    }
+
+}

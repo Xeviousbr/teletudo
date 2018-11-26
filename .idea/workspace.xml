@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23a98903-7025-4418-91b4-52ac6196d109" name="Default" comment="" />
+    <ignored path="TeleTudo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TeleTudo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="padrao.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/layouts/padrao.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3655914" vertical-offset="442" max-vertical-offset="2448">
+              <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1114" max-vertical-offset="2040">
+              <caret line="176" column="33" selection-start-line="176" selection-start-column="33" selection-end-line="176" selection-end-column="33" />
+              <folding>
+                <element signature="e#103#596#0#PHP" expanded="false" />
+                <element signature="n#showWelcome#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#contato#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#login#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#postContato#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="e#2243#2319#0#PHP" expanded="false" />
+                <element signature="e#2404#2622#0#PHP" expanded="false" />
+                <element signature="e#3601#5463#0#PHP" expanded="false" />
+                <element signature="e#3850#5449#0#PHP" expanded="false" />
+                <element signature="e#4033#5431#0#PHP" expanded="false" />
+                <element signature="e#4891#5409#0#PHP" expanded="false" />
+                <element signature="e#5182#5383#0#PHP" expanded="false" />
+                <element signature="e#5475#5606#0#PHP" expanded="false" />
+                <element signature="n#getGeo#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#loginfb#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#loginrede#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#logarede#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#fakerede#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#logingm#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#ender#0;n#HomeController#0;n#!!top" expanded="false" />
+                <element signature="n#privaci#0;n#HomeController#0;n#!!top" expanded="false" />
+                <marker date="1541734552833" expanded="true" signature="2954:3009" placeholder="update pesso..." />
+                <marker date="1541734552833" expanded="true" signature="4317:4375" placeholder="update pedid..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entrar.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/home/entrar.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="697">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/login/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="850">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="3060">
+              <caret line="127" column="19" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>obje</find>
+      <find>obj</find>
+      <find>getElementById</find>
+      <find>form</find>
+      <find>isset</find>
+      <find>insert into</find>
+      <find>home</find>
+      <find>Valor devido a PlayDelivery</find>
+      <find>num</find>
+      <find>now</find>
+      <find>$DistMax</find>
+      <find>btConfirma</find>
+      <find>$tpEnt</find>
+      <find>txtenviar</find>
+      <find>Tpe</find>
+      <find>txTpe</find>
+      <find>array</find>
+      <find>cForn</find>
+      <find>$TiposE</find>
+      <find>TiposE</find>
+      <find>&lt;</find>
+      <find>Logarede</find>
+      <find>Bairr</find>
+      <find>append</find>
+      <find>text/css</find>
+      <find>centro</find>
+      <find>.style</find>
+      <find>txVlrDist</find>
+      <find>txDist</find>
+      <find>dvDis</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Endereco</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Prog\Tele-Tudo\Site\app\models</dir>
+      <dir>D:\Prog\Tele-Tudo\Site\app\views</dir>
+      <dir>D:\Prog\Tele-Tudo\Site\app</dir>
+    </dirStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/controllers/PedidoController.php" />
+        <option value="$PROJECT_DIR$/models/Adm.php" />
+        <option value="$PROJECT_DIR$/models/Sessao.php" />
+        <option value="$PROJECT_DIR$/models/Pessoa.php" />
+        <option value="$PROJECT_DIR$/views/servicos/show.blade.php" />
+        <option value="$PROJECT_DIR$/views/processo/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/home/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/pessoa/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/operacoes/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/adm/index.blade.php" />
+        <option value="$PROJECT_DIR$/models/Cep.php" />
+        <option value="$PROJECT_DIR$/views/servicos/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/criapedido.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/vlrtransf/create.blade.php" />
+        <option value="$PROJECT_DIR$/views/pessoa/edit.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/show.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/posface.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/logarede.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/convite.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/captador.blade.php" />
+        <option value="$PROJECT_DIR$/views/fornecedor/create.blade.php" />
+        <option value="$PROJECT_DIR$/views/formas/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/entrega/show.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/pagtodireto.blade.php" />
+        <option value="$PROJECT_DIR$/views/pedido/resumo.blade.php" />
+        <option value="$PROJECT_DIR$/models/Entrega.php" />
+        <option value="$PROJECT_DIR$/views/entrega/create.blade.php" />
+        <option value="$PROJECT_DIR$/models/Notificacao.php" />
+        <option value="$PROJECT_DIR$/controllers/FornecedorController.php" />
+        <option value="$PROJECT_DIR$/controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/views/pessoa/perfil.blade.php" />
+        <option value="$PROJECT_DIR$/models/Produtos.php" />
+        <option value="$PROJECT_DIR$/models/Fornecedor.php" />
+        <option value="$PROJECT_DIR$/views/produtos/cadastro.blade.php" />
+        <option value="$PROJECT_DIR$/models/Buscador.php" />
+        <option value="$PROJECT_DIR$/views/fornecedor/confgentrega.blade.php" />
+        <option value="$PROJECT_DIR$/controllers/PessoaController.php" />
+        <option value="$PROJECT_DIR$/views/TpEntregaEmpresa/index.blade.php" />
+        <option value="$PROJECT_DIR$/models/TpEntregaEmpresa.php" />
+        <option value="$PROJECT_DIR$/controllers/TpEntregaEmpresaController.php" />
+        <option value="$PROJECT_DIR$/views/pessoa/create.blade.php" />
+        <option value="$PROJECT_DIR$/routes.php" />
+        <option value="$PROJECT_DIR$/views/tpentregaempresa/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/fornecedor/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/home/entrar.blade.php" />
+        <option value="$PROJECT_DIR$/views/login/index.blade.php" />
+        <option value="$PROJECT_DIR$/views/layouts/padrao.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teletudo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teletudo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teletudo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Prog\Tele-Tudo\Site\app\views\pedido" />
+      <recent name="D:\Prog\Tele-Tudo\Site\app\views\fornecedor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Prog\Tele-Tudo\Site\app\views\pedido" />
+      <recent name="D:\Prog\Tele-Tudo\Site\app\views\pessoa" />
+      <recent name="D:\Prog\Tele-Tudo\Site\app\views\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="db6917f9-8e15-4faf-a1db-6801c97d0418" server_name="intonses">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23a98903-7025-4418-91b4-52ac6196d109" name="Default" comment="" />
+      <created>1513997121980</created>
+      <option name="number" value="Default" />
+      <updated>1513997121980</updated>
+      <workItem from="1514420689279" duration="130000" />
+      <workItem from="1514423147154" duration="6020000" />
+      <workItem from="1514500804877" duration="13408000" />
+      <workItem from="1514597863238" duration="7908000" />
+      <workItem from="1514654772983" duration="1206000" />
+      <workItem from="1514683343542" duration="7369000" />
+      <workItem from="1514762781573" duration="46000" />
+      <workItem from="1514848912098" duration="17479000" />
+      <workItem from="1514940387451" duration="346000" />
+      <workItem from="1514943916709" duration="3608000" />
+      <workItem from="1515028724800" duration="9817000" />
+      <workItem from="1515039334439" duration="45000" />
+      <workItem from="1515114449312" duration="9569000" />
+      <workItem from="1515196213670" duration="4690000" />
+      <workItem from="1515202128787" duration="6771000" />
+      <workItem from="1515275659196" duration="316000" />
+      <workItem from="1515291360819" duration="2468000" />
+      <workItem from="1515455949408" duration="5438000" />
+      <workItem from="1515466215321" duration="2879000" />
+      <workItem from="1515549632058" duration="10412000" />
+      <workItem from="1515633610251" duration="7383000" />
+      <workItem from="1515730140466" duration="917000" />
+      <workItem from="1515808609499" duration="5238000" />
+      <workItem from="1515873726385" duration="6410000" />
+      <workItem from="1516158366863" duration="2151000" />
+      <workItem from="1516239322395" duration="6520000" />
+      <workItem from="1516328397252" duration="5909000" />
+      <workItem from="1516405105102" duration="769000" />
+      <workItem from="1516411289964" duration="2413000" />
+      <workItem from="1516414336121" duration="186000" />
+      <workItem from="1516415327726" duration="701000" />
+      <workItem from="1516498046651" duration="854000" />
+      <workItem from="1516574965967" duration="13917000" />
+      <workItem from="1516761986187" duration="3171000" />
+      <workItem from="1516847244371" duration="3696000" />
+      <workItem from="1516924950474" duration="5476000" />
+      <workItem from="1517114883174" duration="1843000" />
+      <workItem from="1517162428927" duration="18000" />
+      <workItem from="1517273179064" duration="5906000" />
+      <workItem from="1517281966196" duration="571000" />
+      <workItem from="1517363628013" duration="4342000" />
+      <workItem from="1517440357192" duration="4665000" />
+      <workItem from="1517541178300" duration="2645000" />
+      <workItem from="1517619488371" duration="1649000" />
+      <workItem from="1517626843644" duration="2549000" />
+      <workItem from="1517679252057" duration="1473000" />
+      <workItem from="1517682615287" duration="7913000" />
+      <workItem from="1517703438685" duration="17051000" />
+      <workItem from="1517789082784" duration="5425000" />
+      <workItem from="1517797882143" duration="5489000" />
+      <workItem from="1517871050439" duration="14257000" />
+      <workItem from="1517964634966" duration="4125000" />
+      <workItem from="1518055206120" duration="4439000" />
+      <workItem from="1518147923595" duration="537000" />
+      <workItem from="1518227781906" duration="1671000" />
+      <workItem from="1518291540349" duration="16885000" />
+      <workItem from="1518377770230" duration="24107000" />
+      <workItem from="1518484110032" duration="10080000" />
+      <workItem from="1518573669376" duration="8141000" />
+      <workItem from="1518654326724" duration="10427000" />
+      <workItem from="1518666993586" duration="140000" />
+      <workItem from="1518738668343" duration="2367000" />
+      <workItem from="1518827530254" duration="10010000" />
+      <workItem from="1518896037498" duration="544000" />
+      <workItem from="1518903004236" duration="2540000" />
+      <workItem from="1518915770558" duration="4974000" />
+      <workItem from="1518997898606" duration="2044000" />
+      <workItem from="1519099993060" duration="2136000" />
+      <workItem from="1519351757020" duration="1157000" />
+      <workItem from="1519354926424" duration="2443000" />
+      <workItem from="1519447595105" duration="66000" />
+      <workItem from="1519500414015" duration="1154000" />
+      <workItem from="1519521748728" duration="3724000" />
+      <workItem from="1519613344652" duration="1194000" />
+      <workItem from="1519699127143" duration="599000" />
+      <workItem from="1519705391438" duration="571000" />
+      <workItem from="1519964210856" duration="2966000" />
+      <workItem from="1519971253347" duration="3235000" />
+      <workItem from="1520050203743" duration="5894000" />
+      <workItem from="1520134586395" duration="596000" />
+      <workItem from="1520224439687" duration="1742000" />
+      <workItem from="1520308326693" duration="4967000" />
+      <workItem from="1520556697150" duration="6403000" />
+      <workItem from="1520652973131" duration="7666000" />
+      <workItem from="1520732674938" duration="11476000" />
+      <workItem from="1520795226045" duration="1975000" />
+      <workItem from="1520908713025" duration="3604000" />
+      <workItem from="1521003436518" duration="759000" />
+      <workItem from="1521251627765" duration="1953000" />
+      <workItem from="1521342607032" duration="1924000" />
+      <workItem from="1521421889066" duration="3540000" />
+      <workItem from="1521855605634" duration="1306000" />
+      <workItem from="1522105881897" duration="1933000" />
+      <workItem from="1522175063698" duration="41000" />
+      <workItem from="1522186984323" duration="12105000" />
+      <workItem from="1522263381125" duration="2068000" />
+      <workItem from="1522278471623" duration="597000" />
+      <workItem from="1522288781578" duration="4346000" />
+      <workItem from="1522374356755" duration="5428000" />
+      <workItem from="1522452940376" duration="7628000" />
+      <workItem from="1522906899685" duration="1765000" />
+      <workItem from="1522986153316" duration="4328000" />
+      <workItem from="1523045755112" duration="5580000" />
+      <workItem from="1523152885830" duration="3751000" />
+      <workItem from="1523324394983" duration="12176000" />
+      <workItem from="1523408659600" duration="678000" />
+      <workItem from="1523421358684" duration="599000" />
+      <workItem from="1523475130114" duration="4463000" />
+      <workItem from="1523489789160" duration="7451000" />
+      <workItem from="1524016734954" duration="9139000" />
+      <workItem from="1524377471908" duration="3177000" />
+      <workItem from="1524440440458" duration="10293000" />
+      <workItem from="1524691849014" duration="715000" />
+      <workItem from="1524775969818" duration="1209000" />
+      <workItem from="1524788189862" duration="2437000" />
+      <workItem from="1525316081133" duration="1086000" />
+      <workItem from="1525570815177" duration="1557000" />
+      <workItem from="1525579908294" duration="4584000" />
+      <workItem from="1525665927621" duration="13177000" />
+      <workItem from="1525680805009" duration="2067000" />
+      <workItem from="1525757289470" duration="681000" />
+      <workItem from="1525816648110" duration="6408000" />
+      <workItem from="1526092714676" duration="235000" />
+      <workItem from="1526094979024" duration="9674000" />
+      <workItem from="1526169647062" duration="6575000" />
+      <workItem from="1526352944011" duration="7754000" />
+      <workItem from="1526437490063" duration="7080000" />
+      <workItem from="1526453958885" duration="3730000" />
+      <workItem from="1526501389446" duration="11252000" />
+      <workItem from="1526786310496" duration="908000" />
+      <workItem from="1526792987007" duration="3564000" />
+      <workItem from="1526856487850" duration="3917000" />
+      <workItem from="1526886799716" duration="773000" />
+      <workItem from="1526938443446" duration="880000" />
+      <workItem from="1527396988777" duration="4309000" />
+      <workItem from="1527646978889" duration="1004000" />
+      <workItem from="1527648510566" duration="3815000" />
+      <workItem from="1527743450800" duration="2149000" />
+      <workItem from="1527791711028" duration="7806000" />
+      <workItem from="1527898914817" duration="1373000" />
+      <workItem from="1528012723754" duration="3199000" />
+      <workItem from="1528057894320" duration="1064000" />
+      <workItem from="1528072197517" duration="9683000" />
+      <workItem from="1528093524173" duration="898000" />
+      <workItem from="1528096438569" duration="2011000" />
+      <workItem from="1528099282192" duration="3766000" />
+      <workItem from="1528143793539" duration="1669000" />
+      <workItem from="1528150643983" duration="4154000" />
+      <workItem from="1528171034298" duration="5771000" />
+      <workItem from="1528180111580" duration="5514000" />
+      <workItem from="1528254588820" duration="1647000" />
+      <workItem from="1528328090393" duration="3055000" />
+      <workItem from="1528432178996" duration="3549000" />
+      <workItem from="1528441663503" duration="8136000" />
+      <workItem from="1528450266468" duration="172000" />
+      <workItem from="1528522758886" duration="6404000" />
+      <workItem from="1528589915973" duration="11925000" />
+      <workItem from="1528609378234" duration="115000" />
+      <workItem from="1528676427694" duration="23970000" />
+      <workItem from="1528756713071" duration="3387000" />
+      <workItem from="1528957945089" duration="7868000" />
+      <workItem from="1529033250981" duration="15581000" />
+      <workItem from="1529118082552" duration="5157000" />
+      <workItem from="1529381411169" duration="10118000" />
+      <workItem from="1529439364920" duration="629000" />
+      <workItem from="1529470232524" duration="1607000" />
+      <workItem from="1529474198821" duration="38000" />
+      <workItem from="1529551572607" duration="9449000" />
+      <workItem from="1529643334407" duration="3416000" />
+      <workItem from="1529647870627" duration="1346000" />
+      <workItem from="1529649553475" duration="2848000" />
+      <workItem from="1529723237789" duration="707000" />
+      <workItem from="1529781204180" duration="62000" />
+      <workItem from="1529905716568" duration="7706000" />
+      <workItem from="1529979877951" duration="6681000" />
+      <workItem from="1530159445235" duration="13194000" />
+      <workItem from="1530210675698" duration="20649000" />
+      <workItem from="1530308534389" duration="11769000" />
+      <workItem from="1530400150820" duration="1262000" />
+      <workItem from="1530429461379" duration="5899000" />
+      <workItem from="1530499130100" duration="12974000" />
+      <workItem from="1530591339576" duration="11265000" />
+      <workItem from="1530689010498" duration="10405000" />
+      <workItem from="1530746015587" duration="1253000" />
+      <workItem from="1530861271089" duration="5766000" />
+      <workItem from="1530923772456" duration="12696000" />
+      <workItem from="1531027163762" duration="13415000" />
+      <workItem from="1531081460442" duration="5633000" />
+      <workItem from="1531116582704" duration="6475000" />
+      <workItem from="1531206233603" duration="6089000" />
+      <workItem from="1531288431867" duration="27000" />
+      <workItem from="1531290826279" duration="5759000" />
+      <workItem from="1531357036807" duration="2903000" />
+      <workItem from="1531371410346" duration="3166000" />
+      <workItem from="1531376369492" duration="123000" />
+      <workItem from="1531721066352" duration="4549000" />
+      <workItem from="1531800781107" duration="18000000" />
+      <workItem from="1531886385819" duration="10494000" />
+      <workItem from="1531968681265" duration="4029000" />
+      <workItem from="1531987222616" duration="104000" />
+      <workItem from="1532054634806" duration="1260000" />
+      <workItem from="1532077663410" duration="3551000" />
+      <workItem from="1532135764424" duration="11098000" />
+      <workItem from="1532326561453" duration="3409000" />
+      <workItem from="1532586034644" duration="124000" />
+      <workItem from="1532661832120" duration="747000" />
+      <workItem from="1532672689245" duration="5625000" />
+      <workItem from="1532740244145" duration="13209000" />
+      <workItem from="1532843819881" duration="807000" />
+      <workItem from="1532844969439" duration="2490000" />
+      <workItem from="1532918466227" duration="11251000" />
+      <workItem from="1532980615879" duration="625000" />
+      <workItem from="1532981927587" duration="273000" />
+      <workItem from="1533004952502" duration="3963000" />
+      <workItem from="1533062918290" duration="22459000" />
+      <workItem from="1533186100181" duration="7516000" />
+      <workItem from="1533527887249" duration="3469000" />
+      <workItem from="1533602350518" duration="4874000" />
+      <workItem from="1533685181033" duration="2302000" />
+      <workItem from="1533787094526" duration="2029000" />
+      <workItem from="1533873771520" duration="5289000" />
+      <workItem from="1533962150402" duration="4189000" />
+      <workItem from="1534046623773" duration="1014000" />
+      <workItem from="1534050529496" duration="23000" />
+      <workItem from="1534051073046" duration="8335000" />
+      <workItem from="1534299068399" duration="118000" />
+      <workItem from="1534304761856" duration="720000" />
+      <workItem from="1534475523848" duration="116000" />
+      <workItem from="1534994100737" duration="3327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1121190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16066837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08774373" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/pedido/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43714285" vertical-offset="0" max-vertical-offset="1598">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/criapedido.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1904">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pagamento/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pagamento/moip.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/captador.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025110783" vertical-offset="0" max-vertical-offset="1870">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/convite.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023842918" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fornecedor/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2414">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fornecedor/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/logarede.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21458626" vertical-offset="0" max-vertical-offset="713">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/entrega/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7446">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/formas/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="0" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/loginfb.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14305751" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/pagtodireto.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="459" max-vertical-offset="3604">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/PlayDelivery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7377279" vertical-offset="6529" max-vertical-offset="7242">
+          <caret line="415" column="16" selection-start-line="415" selection-start-column="16" selection-end-line="415" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/resumo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="2652">
+          <caret line="17" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Notificacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1654979" vertical-offset="137" max-vertical-offset="850">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/entrega/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6521739" vertical-offset="675" max-vertical-offset="2176">
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Contamov.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33660588" vertical-offset="1222" max-vertical-offset="3230">
+          <caret line="86" column="46" selection-start-line="86" selection-start-column="20" selection-end-line="86" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/ContasBancarias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.78541374" vertical-offset="222" max-vertical-offset="935">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pessoa/perfil.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1734">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Produtos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1887" max-vertical-offset="2125">
+          <caret line="736" column="35" selection-start-line="736" selection-start-column="35" selection-end-line="736" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Entrega.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6594761" vertical-offset="6355" max-vertical-offset="7004">
+          <caret line="837" column="31" selection-start-line="837" selection-start-column="31" selection-end-line="837" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/produtos/sedex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="739">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/processo/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="15.692307" vertical-offset="408" max-vertical-offset="2924">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Buscador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42917252" vertical-offset="255" max-vertical-offset="986">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/operacoes/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79803646" vertical-offset="5653" max-vertical-offset="6392">
+          <caret line="373" column="21" selection-start-line="373" selection-start-column="21" selection-end-line="373" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fornecedor/confgentrega.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="4522">
+          <caret line="25" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="260" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/produtos/cadastro.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51598173" vertical-offset="579" max-vertical-offset="3995">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/FornecedorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84474885" vertical-offset="1196" max-vertical-offset="1853">
+          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/FormasController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="221">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ServicosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12801205" vertical-offset="1275" max-vertical-offset="2856">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/TpEntregaEmpresaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.564759" vertical-offset="203" max-vertical-offset="867">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Entregadoras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07680723" vertical-offset="0" max-vertical-offset="664">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/TpEntregaEmpresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15361446" vertical-offset="0" max-vertical-offset="664">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pessoa/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41781875" vertical-offset="1938" max-vertical-offset="3655">
+          <caret line="130" column="42" selection-start-line="130" selection-start-column="42" selection-end-line="130" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/pedido/confgentrega.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2565284" vertical-offset="394" max-vertical-offset="4522">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/tpentregaempresa/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Fornecedor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3223143" vertical-offset="7487" max-vertical-offset="8194">
+          <caret line="251" column="19" selection-start-line="251" selection-start-column="19" selection-end-line="251" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lang/pt/produtos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="493">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fornecedor/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="6188">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1785" max-vertical-offset="3060">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="12" selection-end-line="127" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/complemento/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17586207" vertical-offset="0" max-vertical-offset="580">
+          <caret line="6" column="95" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/padrao.blade.php.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42079207" vertical-offset="1581" max-vertical-offset="3026">
+          <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57586205" vertical-offset="244" max-vertical-offset="1190">
+          <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login/privacidade.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47741935" vertical-offset="135" max-vertical-offset="612">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3410042" vertical-offset="1265" max-vertical-offset="2210">
+          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/PessoaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.4895396" vertical-offset="194" max-vertical-offset="5185">
+          <caret line="222" column="30" selection-start-line="222" selection-start-column="30" selection-end-line="222" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home/entrar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="697">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1114" max-vertical-offset="2040">
+          <caret line="176" column="33" selection-start-line="176" selection-start-column="33" selection-end-line="176" selection-end-column="33" />
+          <folding>
+            <element signature="e#103#596#0#PHP" expanded="false" />
+            <element signature="n#showWelcome#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#contato#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#login#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#postContato#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="e#2243#2319#0#PHP" expanded="false" />
+            <element signature="e#2404#2622#0#PHP" expanded="false" />
+            <element signature="e#3601#5463#0#PHP" expanded="false" />
+            <element signature="e#3850#5449#0#PHP" expanded="false" />
+            <element signature="e#4033#5431#0#PHP" expanded="false" />
+            <element signature="e#4891#5409#0#PHP" expanded="false" />
+            <element signature="e#5182#5383#0#PHP" expanded="false" />
+            <element signature="e#5475#5606#0#PHP" expanded="false" />
+            <element signature="n#getGeo#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#loginfb#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#loginrede#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#logarede#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#fakerede#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#logingm#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#ender#0;n#HomeController#0;n#!!top" expanded="false" />
+            <element signature="n#privaci#0;n#HomeController#0;n#!!top" expanded="false" />
+            <marker date="1541734552833" expanded="true" signature="2954:3009" placeholder="update pesso..." />
+            <marker date="1541734552833" expanded="true" signature="4317:4375" placeholder="update pedid..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="850">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/padrao.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3655914" vertical-offset="442" max-vertical-offset="2448">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

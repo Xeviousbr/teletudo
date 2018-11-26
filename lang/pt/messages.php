@@ -1,0 +1,21 @@
+<?php 
+return array(
+	'frase' => 'Aqui voce encontra prestadores de servi&ccedil;os',
+	'mensagemCOMCep' => 'Caso deseje consultar outra região altere o CEP (Ou pode informar a localidade diretamente)',
+	'mensagemSEMCep' => 'Informe o CEP para retornar dados da sua regi&atilde;o (Ou pode informar a localidade diretamente)',
+	'informacaoCOMCep' => 'Os resultados s&atilde;o apresentados na ordem de PROXIMIDADE em rela&ccedil;&atilde;o a sua localidade ',
+	'informacaoSEMCep' => 'Os resultados s&atilde;o apresentados por ordem dos MAIS CLICADOS, para ver por proximidade informe o CEP(Ou pode informar a localidade diretamente): ',		
+	'informacaoSEMcomLAT' => 'Os resultados s&atilde;o aproximados, para aumentar a precisão, informe o CEP (Ou pode informar a localidade diretamente)',			
+	'forcargeo' => 'Forçar Geolocalização',	
+	'atualizageo' => 'Atualize após a geolocalização',	
+	'logado' => 'Usu&aacute;rio Logado: ',	
+	'caso' => 'Caso deseje consultar outra região altere o CEP',	
+	'informe' => 'Informe o CEP para retornar dados da sua região',		
+	'cep' => 'CEP',
+    'escreva' => 'Informe a mercadoria que deseja comprar via tele-entrega: ',
+	'NaoTemNaLoc' => 'N&atilde;o existem resultados para sua localidade (Os resultados mostrados s&atilde;o de abrang&ecircncia nacional)',	
+	'ResultNac' => 'Os resultados mostrados s&atilde;o de abrang&ecircncia nacional',	
+	'CepInvalido' => 'Cep Inv&aacute;lido (Os resultados mostrados s&atilde;o de abrang&ecircncia nacional)',
+	'duvidas' => 'Dúvidas e sugestões para ',
+	'naofunfa' => 'O site ainda não esta funcionando no seu país',
+);

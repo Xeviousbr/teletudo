@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ef67d5e9-c502-4fa5-bcc9-27ba809ae43b" name="intonses" url="http://ftp.intonses.com.br">
+        <fileTransfer host="ftp.intonses.com.br" port="21" rootFolder="/public_html/teletudo/app">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
